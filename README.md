@@ -3,6 +3,7 @@
 
 This project uses **Convolutional Neural Networks (CNN)** and **ResNet50** to automatically detect chest diseases from X-ray images.  
 It also generates an automated **diagnostic report** based on the prediction.
+#CODE IN MAIN.PY
 
 ---
 
